@@ -6,3 +6,5 @@
 * gmail_connect.py: connects to gmail's IMAP server and returns a list of messages that fall under specified header
 * process_messages.py: takes the list from retrieve_gmail() and extracts the strings which immediately follow the following labels: ('account name:', 'broker:', 'business unit:', 'due date:', 'underwriter:', 'sender:'). 
 * main.py: contains 2 functions, add_spreadsheet & create_csv. Calling the spreadsheet function will edit a specified google sheet. Calling the create_csv function will create a csv file to the specified path 
+
+![email](/Users/joekimurasmith/Desktop/email.png)
